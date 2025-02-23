@@ -1,0 +1,9 @@
+body {
+    background-color: thistle;
+}
+
+.logo {
+    max-width: 80px;
+    max-height: 80px;
+    margin: 0 auto;
+}
